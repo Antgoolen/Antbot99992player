@@ -1,0 +1,3 @@
+id,Amount,Created (UTC),Currency,Arrival Date (UTC),Source Type,Status,Type,Method,Balance Transaction,Destination Name,Destination Country,Destination Last 4
+po_1Qk187A5w2oQxDlSNWrMSPGi,1000.00,2025-01-22 10:25,gbp,2025-01-22 00:00,card,paid,bank_account,standard,txn_1Qk187A5w2oQxDlSfYCc0l7f,NAT WEST BANK PLC,GB,5725
+po_1QjydCA5w2oQxDlS9rgXkT7h,10000.00,2025-01-22 07:45,gbp,2025-01-22 00:00,issuing,paid,bank_account,standard,txn_1QjydCA5w2oQxDlSVMlMZdUi,NAT WEST BANK PLC,GB,5725
